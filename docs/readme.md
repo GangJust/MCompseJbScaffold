@@ -6,8 +6,8 @@ Jetpack Compose Desktop Scaffold (jp-desktop) ， (由于compose-jb更新频繁�
 
 * ClassicWindowScaffold    (经典Windows脚手架)
 
-![ClassicWindowScaffold](AF102C77-34A8-40f6-8346-93B350FC24B4.png)
+![ClassicWindowScaffold](BFFDCF3D-6365-4b5b-834D-70F43F3C8A9F.png)
 
 * PanelWindowScaffold    (面板样式脚手架)
 
-  ![PanelWindowScaffold](2EA706C5-EA6B-4dd8-8676-7C1E36C26B23.png)
+  ![PanelWindowScaffold](C9FA9931-FE61-4aa4-969C-33F97AD0B136.png)
